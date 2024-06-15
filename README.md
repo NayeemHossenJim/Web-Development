@@ -6,4 +6,4 @@
 
 - Nayeem Hossen Jim 👨‍💻
 
-![Nayeem Hossen Jim](Jim.jpg)
+![Nayeem Hossen Jim](Picture/Jim.jpg)
