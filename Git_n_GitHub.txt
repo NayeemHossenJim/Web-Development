@@ -1,2 +1,2 @@
 Hello We are Just start our first Web development Course .
-Now we learn about Git n gitHub 
+Now we learn about Git n GititHub 
